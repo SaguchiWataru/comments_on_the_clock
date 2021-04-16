@@ -4,8 +4,8 @@
 
 ## スマートフォンの画面
 
-!(スマートフォンの画面)[https://raw.githubusercontent.com/SaguchiWataru/comments_on_the_clock/main/phone.png]
+![スマートフォンの画面](https://raw.githubusercontent.com/SaguchiWataru/comments_on_the_clock/main/phone.png)
 
 ## Unityの画面
 
-!(Unityの画面)[https://raw.githubusercontent.com/SaguchiWataru/comments_on_the_clock/main/pc.png]
+![Unityの画面](https://raw.githubusercontent.com/SaguchiWataru/comments_on_the_clock/main/pc.png)
